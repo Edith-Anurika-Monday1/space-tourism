@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import data from "../../../starter-code/data.json";
+import data from "../data/data.json";
 import PageWrapper from "../components/PageWrapper";
 import TechnologySlider from "../components/TechnologySlider";
 

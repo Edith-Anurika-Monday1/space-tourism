@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../../../starter-code/data.json";
+import data from "../data/data.json";
 
 interface TechnologyItem {
   name: string;
